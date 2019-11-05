@@ -27,7 +27,7 @@ export default StyleSheet.create({
   touchFlag: {
     alignItems: 'flex-start',
     justifyContent: 'flex-start',
-    height: 25
+    height: 30
   },
   imgStyle: {
     resizeMode: 'cover',
